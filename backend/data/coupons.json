@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "piv7s6prm",
+    "createdAt": "2026-07-08T04:46:50.230Z",
+    "updatedAt": "2026-07-08T04:46:50.230Z",
+    "code": "GOLD20",
+    "discountType": "percentage",
+    "discountValue": 20,
+    "minPurchaseAmount": 1000,
+    "isActive": true
+  },
+  {
+    "_id": "hbj90y1s8",
+    "createdAt": "2026-07-08T04:46:50.230Z",
+    "updatedAt": "2026-07-08T04:46:50.230Z",
+    "code": "WELCOME10",
+    "discountType": "percentage",
+    "discountValue": 10,
+    "minPurchaseAmount": 100,
+    "isActive": true
+  },
+  {
+    "_id": "ldmb8qomu",
+    "createdAt": "2026-07-08T04:46:50.230Z",
+    "updatedAt": "2026-07-08T04:46:50.230Z",
+    "code": "FLAT500",
+    "discountType": "flat",
+    "discountValue": 500,
+    "minPurchaseAmount": 3000,
+    "isActive": true
+  }
+]

@@ -1,0 +1,101 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply font-sans transition-colors duration-300;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif tracking-wide;
+  }
+}
+
+@layer components {
+  /* Premium Glassmorphism */
+  .glass {
+    @apply bg-white/70 backdrop-blur-md border border-white/20 shadow-sm;
+  }
+  
+  .dark .glass {
+    @apply bg-black/60 backdrop-blur-md border border-white/10 shadow-lg;
+  }
+  
+  /* Gold Button Style */
+  .btn-gold {
+    @apply bg-gradient-to-r from-gold-dark via-gold to-gold-dark text-white font-medium py-3 px-6 rounded-none tracking-wider hover:brightness-110 active:brightness-95 transition-all duration-300 shadow-md uppercase text-sm;
+  }
+
+  .btn-outline-gold {
+    @apply border border-gold text-gold hover:bg-gold hover:text-white font-medium py-3 px-6 rounded-none tracking-wider transition-all duration-300 uppercase text-sm;
+  }
+
+  .dark .btn-outline-gold {
+    @apply border border-gold text-gold hover:bg-gold hover:text-black font-medium py-3 px-6 rounded-none tracking-wider transition-all duration-300 uppercase text-sm;
+  }
+
+  /* Shimmering effect on hover */
+  .gold-shimmer {
+    position: relative;
+    overflow: hidden;
+  }
+
+  .gold-shimmer::after {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -60%;
+    width: 30%;
+    height: 200%;
+    background: rgba(255, 255, 255, 0.25);
+    transform: rotate(30deg);
+    transition: none;
+    opacity: 0;
+  }
+
+  .gold-shimmer:hover::after {
+    left: 120%;
+    opacity: 1;
+    transition: all 0.8s ease-in-out;
+  }
+  
+  /* Zoom Container */
+  .zoom-container {
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .zoom-image {
+    transition: transform 0.5s ease;
+  }
+  
+  .zoom-container:hover .zoom-image {
+    transform: scale(1.15);
+  }
+}
+
+/* Custom Scrollbar for Luxury Feeling */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-luxury-cream dark:bg-luxury-charcoal;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-gold/50 hover:bg-gold transition-colors duration-300;
+  border-radius: 4px;
+}
+
+/* Hide default input spins */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+input[type=number] {
+  -moz-appearance: textfield;
+}

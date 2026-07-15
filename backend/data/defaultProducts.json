@@ -1,0 +1,250 @@
+[
+  {
+    "name": "Prestige Royal Gold Bridal Set",
+    "description": "Exquisite 22K yellow gold bridal necklace set encrusted with fine Kundan work and drop pearls. Perfect for making your special day timeless.",
+    "images": ["/uploads/bridal_set_1.jpg"],
+    "category": "Premium Bridal Sets",
+    "collectionType": "Premium",
+    "metalType": "Gold",
+    "purity": "22K Gold",
+    "weight": 65.5,
+    "stoneDetails": "Fine Kundan & Pearls",
+    "sizes": ["Adjustable"],
+    "basePrice": 0,
+    "makingCharge": 12000,
+    "isPriceDynamic": true,
+    "discountPercent": 5,
+    "inventory": 3,
+    "rating": 4.9,
+    "reviewsCount": 1,
+    "reviews": [
+      {
+        "customerName": "Sophia Mitchell",
+        "rating": 5,
+        "text": "Stunning craftsmanship. Exceeded all expectations. The finish is extremely royal.",
+        "date": "2026-06-15T10:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Aura Diamond Solitaire Ring",
+    "description": "An elegant 18K yellow gold band featuring a brilliant 1.0-carat solitaire diamond with VVS1 clarity.",
+    "images": ["/uploads/ring_premium_1.jpg"],
+    "category": "Premium Rings",
+    "collectionType": "Premium",
+    "metalType": "Gold",
+    "purity": "18K Gold",
+    "weight": 4.2,
+    "stoneDetails": "1.0 ct Solitaire Diamond VVS1",
+    "sizes": ["6", "7", "8"],
+    "basePrice": 0,
+    "makingCharge": 4500,
+    "isPriceDynamic": true,
+    "discountPercent": 10,
+    "inventory": 8,
+    "rating": 4.8,
+    "reviewsCount": 2,
+    "reviews": [
+      {
+        "customerName": "Emma Watson",
+        "rating": 5,
+        "text": "The diamond sparkle is absolutely gorgeous. The sizing is exact.",
+        "date": "2026-06-20T11:30:00.000Z"
+      },
+      {
+        "customerName": "Liam Davies",
+        "rating": 4,
+        "text": "Beautiful engagement ring. Highly recommended.",
+        "date": "2026-06-25T14:20:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Classic Gold Rope Chain",
+    "description": "Handcrafted premium 22K yellow gold rope chain, durable and elegant for daily wear.",
+    "images": ["/uploads/chain_premium_1.jpg"],
+    "category": "Premium Chains",
+    "collectionType": "Premium",
+    "metalType": "Gold",
+    "purity": "22K Gold",
+    "weight": 18.5,
+    "stoneDetails": "None",
+    "sizes": ["18 inch", "20 inch", "22 inch"],
+    "basePrice": 0,
+    "makingCharge": 2200,
+    "isPriceDynamic": true,
+    "discountPercent": 0,
+    "inventory": 12,
+    "rating": 4.7,
+    "reviewsCount": 1,
+    "reviews": [
+      {
+        "customerName": "James Anderson",
+        "rating": 5,
+        "text": "Solid weight and classic look. Very satisfied.",
+        "date": "2026-07-01T09:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Royal Emerald Gold Bangles",
+    "description": "Stunning pair of 22K gold bangles detailed with classic flower patterns and brilliant natural emeralds.",
+    "images": ["/uploads/bangle_premium_1.jpg"],
+    "category": "Premium Bangles",
+    "collectionType": "Premium",
+    "metalType": "Gold",
+    "purity": "22K Gold",
+    "weight": 28.0,
+    "stoneDetails": "Natural Emeralds 1.2 ct",
+    "sizes": ["2.4", "2.6", "2.8"],
+    "basePrice": 0,
+    "makingCharge": 5000,
+    "isPriceDynamic": true,
+    "discountPercent": 8,
+    "inventory": 5,
+    "rating": 4.9,
+    "reviewsCount": 0,
+    "reviews": []
+  },
+  {
+    "name": "Empress Diamond Drop Earrings",
+    "description": "Luxurious 18K yellow gold drop earrings encrusted with small pave diamonds and pear-shaped hanging diamonds.",
+    "images": ["/uploads/earrings_premium_1.jpg"],
+    "category": "Premium Earrings",
+    "collectionType": "Premium",
+    "metalType": "Gold",
+    "purity": "18K Gold",
+    "weight": 6.8,
+    "stoneDetails": "Pave Diamonds 0.8 ct",
+    "sizes": ["Standard"],
+    "basePrice": 0,
+    "makingCharge": 3500,
+    "isPriceDynamic": true,
+    "discountPercent": 15,
+    "inventory": 6,
+    "rating": 5,
+    "reviewsCount": 1,
+    "reviews": [
+      {
+        "customerName": "Olivia Taylor",
+        "rating": 5,
+        "text": "Stunning pair of earrings. They catch the light beautifully.",
+        "date": "2026-07-02T16:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Minimalist Silver Sleek Chain",
+    "description": "Affordable everyday 925 sterling silver chain with a high-shine rhodium finish, perfect for layering.",
+    "images": ["/uploads/chain_ordinary_1.jpg"],
+    "category": "Chains",
+    "collectionType": "Ordinary",
+    "metalType": "Silver",
+    "purity": "925 Silver",
+    "weight": 3.5,
+    "stoneDetails": "None",
+    "sizes": ["16 inch", "18 inch"],
+    "basePrice": 0,
+    "makingCharge": 250,
+    "isPriceDynamic": true,
+    "discountPercent": 10,
+    "inventory": 25,
+    "rating": 4.5,
+    "reviewsCount": 1,
+    "reviews": [
+      {
+        "customerName": "Sara Smith",
+        "rating": 4,
+        "text": "Very shiny and delicate. Nice for everyday use.",
+        "date": "2026-07-03T10:15:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Everyday Comfort Silver Ring",
+    "description": "Simple 925 sterling silver band with a polished finish. A comfort-fit ring perfect for everyday wear.",
+    "images": ["/uploads/ring_ordinary_1.jpg"],
+    "category": "Rings",
+    "collectionType": "Ordinary",
+    "metalType": "Silver",
+    "purity": "925 Silver",
+    "weight": 2.1,
+    "stoneDetails": "None",
+    "sizes": ["5", "6", "7", "8", "9"],
+    "basePrice": 0,
+    "makingCharge": 150,
+    "isPriceDynamic": true,
+    "discountPercent": 5,
+    "inventory": 40,
+    "rating": 4.6,
+    "reviewsCount": 0,
+    "reviews": []
+  },
+  {
+    "name": "Sparkling Silver Studs",
+    "description": "Dainty 925 sterling silver stud earrings set with premium sparkling cubic zirconia solitaire stones.",
+    "images": ["/uploads/earrings_ordinary_1.jpg"],
+    "category": "Earrings",
+    "collectionType": "Ordinary",
+    "metalType": "Silver",
+    "purity": "925 Silver",
+    "weight": 1.5,
+    "stoneDetails": "Cubic Zirconia",
+    "sizes": ["Standard"],
+    "basePrice": 0,
+    "makingCharge": 200,
+    "isPriceDynamic": true,
+    "discountPercent": 12,
+    "inventory": 30,
+    "rating": 4.8,
+    "reviewsCount": 1,
+    "reviews": [
+      {
+        "customerName": "Chloe Brown",
+        "rating": 5,
+        "text": "Looks like real diamonds! I wear them daily without any irritation.",
+        "date": "2026-07-04T12:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Classic Silver Bead Anklet",
+    "description": "Delicate sterling silver chain anklet with tiny silver beads, lightweight and fashionable.",
+    "images": ["/uploads/anklet_ordinary_1.jpg"],
+    "category": "Anklets",
+    "collectionType": "Ordinary",
+    "metalType": "Silver",
+    "purity": "925 Silver",
+    "weight": 4.0,
+    "stoneDetails": "None",
+    "sizes": ["10 inch"],
+    "basePrice": 0,
+    "makingCharge": 300,
+    "isPriceDynamic": true,
+    "discountPercent": 5,
+    "inventory": 20,
+    "rating": 4.4,
+    "reviewsCount": 0,
+    "reviews": []
+  },
+  {
+    "name": "Silver Flower Pendant",
+    "description": "Beautiful blooming flower pendant made of sterling silver, complete with an 18-inch matching silver chain.",
+    "images": ["/uploads/pendant_ordinary_1.jpg"],
+    "category": "Pendants",
+    "collectionType": "Ordinary",
+    "metalType": "Silver",
+    "purity": "925 Silver",
+    "weight": 2.8,
+    "stoneDetails": "None",
+    "sizes": ["Standard"],
+    "basePrice": 0,
+    "makingCharge": 200,
+    "isPriceDynamic": true,
+    "discountPercent": 0,
+    "inventory": 15,
+    "rating": 4.7,
+    "reviewsCount": 0,
+    "reviews": []
+  }
+]
